@@ -1,1 +1,1 @@
-# Geometria_Anal-tica
+# Geometria_Analitica
